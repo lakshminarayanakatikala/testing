@@ -132,10 +132,10 @@ body{
     width: 100%;
     height: 70%;
 }
-.c2{
+/* .c2{
     width: 100%;
     height: 65%;
-}
+} */
 
 
 .card-img-top:hover{
@@ -372,11 +372,7 @@ body{
     /* margin-bottom: 10%; */
      
    } 
-   .c2{
-    width: 100%;
-    height: 65%;
-    }
-
+  
    /* section5 */
 
    .section5{
@@ -491,11 +487,7 @@ body{
         /* height: 1000vh; */
          
        }
-       .c2{
-        width: 100%;
-        height: 66%;
-        }
-       
+      
        
        /* section5 */
        .section5{
